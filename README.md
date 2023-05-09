@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hello, I'm Jordan</h1>
+<h1 align="center">Hello, I'm Aftershock</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftershock3995&label=Profile%20views&color=0e75b6&style=flat" alt="aftershock3995" /> </p>
