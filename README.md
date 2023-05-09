@@ -1,15 +1,14 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
-<h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hello, I'm Jordan</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftershock3995&label=Profile%20views&color=0e75b6&style=flat" alt="aftershock3995" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftershock3995" alt="aftershock3995" /></a> </p>
 
-- 🔭 I’m currently working on **Subnautica mods**
 
-- 📫 How to reach me **AftershockBusiness@outlook.com**
+- currently working on **Subnautica mods**
+
+- reach me at **AftershockBusiness@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
